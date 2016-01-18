@@ -1,0 +1,419 @@
+[
+    {
+        "outputFile": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 57,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 55,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 52,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 50,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 163,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 163,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 57,
+                    "endOffset": 1866
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1871,
+                    "endColumn": 83,
+                    "endOffset": 1950
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1955,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2241
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2246,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 57,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 55,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 52,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 50,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 163,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 57,
+                    "endOffset": 1866
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1871,
+                    "endColumn": 49,
+                    "endOffset": 1916
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 49,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1921,
+                    "endColumn": 83,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2451
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 57,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 55,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 52,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1598,
+                    "endColumn": 50,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 163,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 163,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 57,
+                    "endOffset": 1866
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1871,
+                    "endColumn": 83,
+                    "endOffset": 1950
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1955,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2241
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2246,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="url_requests">
+        <item>http://www.thomas-bayer.com/sqlrest/INVOICE/15/</item>
+        <item>http://www.thomas-bayer.com/sqlrest/CUSTOMER/30/</item>
+        <item>http://api.openweathermap.org/data/2.5/weather?q=London&amp;mode=xml</item>
+        <item>http://rsscloud.wordpress.com/feed/</item>
+        <item>http://api.geonames.org/earthquakes?north=44.1&amp;south=-9.9&amp;east=-22.4&amp;west=55.2&amp;username=demo&amp;style=full</item>
+        <item>http://www.dailyfx.com/feeds/todays_picks</item>
+        <item>http://www.androidster.com/android_news.rss</item>
+        <item>http://fulltextrssfeed.com/www.androidcentral.com/feed</item>
+        <item>https://george-vustrey-weather.p.mashape.com/api.php?location=Los+Angeles</item>
+        <item>http://feeds.feedburner.com/SidRothMessianicVision?format=xml</item>
+        <item>http://news.nationalgeographic.com/index.rss</item>
+        <item>http://www.horsetalk.co.nz/rss.xml</item>
+        <item>http://www.dailyfx.com/feeds/all</item>
+        <item>http://www.dailyfx.com/feeds/candlesticks</item>
+        <item>http://www.dailyfx.com/feeds/dfx_for_beginners</item>
+        <item>http://www.dailyfx.com/forex/education/trading_tips/post_of_the_day/2014/07/01/chasing-price-action.html</item>
+        <item>http://www.dailyfx.com/feeds/picks_jamie_saettele</item>
+    </string-array>
+
+</resources>

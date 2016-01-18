@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\Homework_android_webservices\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\David\\Documents\\Jpassion\\EjerciciosAndroid\\WS_RESTClient\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\David\\Documents\\MisProyectosAndroid\\webservices\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
